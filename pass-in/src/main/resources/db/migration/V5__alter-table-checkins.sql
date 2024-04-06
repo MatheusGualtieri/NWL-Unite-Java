@@ -1,0 +1,2 @@
+ALTER TABLE check_ins
+ALTER id IDENTITY;
